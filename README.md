@@ -6,6 +6,9 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+
 - 🔭 I’m currently working on **improving my technical skills**
 
 - 🌱 I’m currently learning **Advanced android topics**
