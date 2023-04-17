@@ -3,10 +3,9 @@
 <h1 align="center">Hi 👋, I'm Haidy Abou Gomaa</h1>
 <h3 align="center">A passionate android developer 📱💻</h3>
 <img align="right" alt="Coding" width="400" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/280397990/original/ab45d2a50b9a43e80037a532f5fe24f16142286b/animate-your-composition-quickly-and-efficiently.jpg"/>
-
-
-
-
+<br>
+<br>
+<br>
 - 🔭 I’m currently working on **improving my technical skills**
 
 - 🌱 I’m currently learning **Advanced android topics**
