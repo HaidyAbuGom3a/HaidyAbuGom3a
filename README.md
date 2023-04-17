@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Haidy Abou Gomaa</h1>
 <h3 align="center">A passionate android developer 📱💻</h3>
-<img align="right" alt="Coding" width="400" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/280397990/original/ab45d2a50b9a43e80037a532f5fe24f16142286b/animate-your-composition-quickly-and-efficiently.jpg">
+<img align="right" alt="Coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/280397990/original/a96fccc26123212537683459ac5b4752fd99edb1/animate-your-composition-quickly-and-efficiently.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haidyabugom3a&label=Profile%20views&color=0e75b6&style=flat" alt="haidyabugom3a" /> </p>
 <p></p>
 
