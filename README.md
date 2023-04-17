@@ -1,11 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Haidy Abou Gomaa</h1>
 <h3 align="center">A passionate android developer 📱💻</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif./>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haidyabugom3a&label=Profile%20views&color=0e75b6&style=flat" alt="haidyabugom3a" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haidyabugom3a" alt="haidyabugom3a" /></a> </p>
 
 - 🔭 I’m currently working on **improving my technical skills**
 
@@ -16,6 +13,8 @@
 - 💬 Ask me about **Android, Kotlin**
 
 - 📫 How to reach me **haidyabugom3a@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haidyabugom3a" alt="haidyabugom3a" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
