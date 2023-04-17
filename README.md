@@ -9,7 +9,6 @@
 <br>
 <br>
 <br>
-<br>
 
 - 🔭 I’m currently working on **improving my technical skills**
 
